@@ -1,0 +1,202 @@
+{
+    "Profile": {
+        "About": {
+            "Name": "Chandra Prakash Gupta",
+            "Address": "Bangalore, Karnataka, India",
+            "Phone": "+91-9040192595",
+            "WhatsApp": "+91-7800430330",
+            "Personal_Email": "chandra.prakashg01@gmail.com",
+            "Official_Email": "thechandragupta@outlook.com",
+            "Summary": "Software Engineer with Experience in Java Development. Experienced in Developing Various Web Based applications using J2EE, Spring Boot, Spring Data JPA and Angular, and Computer Vision solutions using Deep Learning. Good Project Exposure in E-Commerce and Airline Domain",
+            "Social_Media_Link": {
+                "LinkedIn": "https://www.linkedin.com/in/thechandragupta/",
+                "GitHub": "https://github.com/thechandragupta",
+                "Twitter": "https://twitter.com/TheChandraGupta",
+                "Facebook": "https://www.facebook.com/TheChandraGupta",
+                "Instagram": "https://www.instagram.com/thechandragupta/",
+                "Medium": "https://medium.com/@TheChandraGupta",
+                "Quora": "https://www.quora.com/profile/Chandra-Prakash-Gupta-5",
+                "Skype_URL": "https://join.skype.com/invite/gfXgj0QkN3qE",
+                "Skype": "live:.cid.92561b5370472abe",
+                "MyWebsite": "https://thechandra.com"
+            }
+        },
+        "Experiences": [{
+                "Designation": "Software Engineer",
+                "Company": "Accolite Softwares Pvt. Ltd.",
+                "From": "May 2020",
+                "To": "Present",
+                "Place": "Bangalore, India",
+                "Company_Description": "",
+                "Responsibility": "",
+                "Achievements": "",
+                "Summary": ""
+            },
+            {
+                "Designation": "Senior Software Engineer",
+                "Company": "Mindtree Ltd.",
+                "From": "July 2019",
+                "To": "May 2020",
+                "Place": "Bangalore, India",
+                "Company_Description": "",
+                "Responsibility": "",
+                "Achievements": "",
+                "Summary": ""
+            },
+            {
+                "Designation": "Software Engineer",
+                "Company": "Mindtree Ltd.",
+                "From": "July 2017",
+                "To": "June 2019",
+                "Place": "Bangalore, India",
+                "Company_Description": "",
+                "Responsibility": "",
+                "Achievements": "",
+                "Summary": ""
+            },
+            {
+                "Designation": "Application Developer Intern",
+                "Company": "Lattice Innovation.",
+                "From": "May 2016",
+                "To": "June 2016",
+                "Place": "Bangalore, India",
+                "Company_Description": "",
+                "Responsibility": "",
+                "Achievements": "",
+                "Summary": ""
+            }
+        ],
+        "Projects": [{
+                "Name": "Telecom",
+                "Client": "Accolite Softwares Pvt. Ltd.",
+                "From": "May 2020",
+                "To": "Present",
+                "Description": "",
+                "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B marketing",
+                "Team_Size": "24",
+                "Technology_Stack": "Java, Spring Boot, Microservices, MonogoDB, Intellij, and Github"
+            },
+            {
+                "Name": "Telecom",
+                "Client": "Accolite Softwares Pvt. Ltd.",
+                "From": "May 2020",
+                "To": "Present",
+                "Description": "",
+                "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B marketing",
+                "Team_Size": "24",
+                "Technology_Stack": "Java, Spring Boot, Microservices, MonogoDB, Intellij, and Github"
+            }
+        ],
+        "Educations": [{
+                "Institution": "Centurion University of Technology and Management",
+                "Board": "Centurion University of Technology and Management",
+                "Degree": "Bachelor's of Technology",
+                "Field": "Computer Science and Engineering",
+                "From": "August 2013",
+                "To": "May 2017",
+                "Grade": "9.3 CGPA",
+                "Description": "",
+                "Activities": "",
+                "Achievements": ""
+            },
+            {
+                "Institution": "Vindhyavasini Public School",
+                "Board": "Central Board of Secondary Education",
+                "Degree": "Intermediate",
+                "Field": "PCM",
+                "From": "July 2012",
+                "To": "June 2013",
+                "Grade": "71.2%",
+                "Description": "",
+                "Activities": "",
+                "Achievements": ""
+            },
+            {
+                "Institution": "Vindhyavasini Public School",
+                "Board": "Central Board of Secondary Education",
+                "Degree": "Matriculation",
+                "Field": "Science",
+                "From": "July 2010",
+                "To": "June 2011",
+                "Grade": "9.2 CGPA",
+                "Description": "",
+                "Activities": "",
+                "Achievements": ""
+            }
+        ],
+        "Skills": [{
+                "Name": "Java",
+                "Proficiency": "Experienced"
+            },
+            {
+                "Name": "Spring Boot",
+                "Proficiency": "Experienced"
+            },
+            {
+                "Name": "MySQL",
+                "Proficiency": "Experienced"
+            },
+            {
+                "Name": "Oracle",
+                "Proficiency": "Experienced"
+            },
+            {
+                "Name": "Angular",
+                "Proficiency": "Experienced"
+            }
+        ],
+        "Courses": [{
+                "Name": "Machine Learning",
+                "Vendor": "",
+                "Learning": "Learned about the basics of Machine Learning, the logic and mathematics behind it.",
+                "From": "",
+                "To": ""
+            },
+            {
+                "Name": "Deep Learning",
+                "Vendor": "",
+                "Learning": "Learned about the basics of Machine Learning, the logic and mathematics behind it.",
+                "From": "",
+                "To": ""
+            }
+        ],
+        "Awards": [{
+                "Title": "Outstanding Performer Award",
+                "By": "Mindtree Ltd.",
+                "From": "July 2019",
+                "To": "",
+                "Description": "Awarded Outstanding Performer Award for the year 2018-19"
+            },
+            {
+                "Title": "Outstanding Performer Award",
+                "By": "Mindtree Ltd.",
+                "From": "July 2018",
+                "To": "",
+                "Description": "Awarded Outstanding Performer Award for the year 2017-18"
+            }
+        ],
+        "Certifications": [{
+                "Name": "Machine Learning by Andrew NG",
+                "IssuedBy": "Stanford Online High School, Coursera",
+                "IssueDate": "January 2019",
+                "ExpirationDate": "",
+                "DoesExpire": false,
+                "ID": "5BW729EG496D",
+                "URL": "https://www.coursera.org/account/accomplishments/certificate/5BW729EG496D",
+                "Image_URL": ""
+            },
+            {
+                "Name": "Programming for Everybody (Getting Started with Python)",
+                "IssuedBy": "University of Michigan, Coursera",
+                "IssueDate": "January 2019",
+                "ExpirationDate": "",
+                "DoesExpire": false,
+                "ID": "B5YNZ7YASB6C",
+                "URL": "https://www.coursera.org/account/accomplishments/certificate/B5YNZ7YASB6C",
+                "Image_URL": ""
+            }
+        ]
+    },
+    "Resume_URL": "https://thechandra.com",
+    "Version": "1.0.0"
+}
