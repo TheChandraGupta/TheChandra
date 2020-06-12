@@ -1,19 +1,4 @@
 @charset "UTF-8";
-
-/*!
-* Start Bootstrap - Resume v6.0.0 (https://startbootstrap.com/template-overviews/resume)
-* Copyright 2013-2020 Start Bootstrap
-* Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
-*/
-
-
-/*!
- * Bootstrap v4.5.0 (https://getbootstrap.com/)
- * Copyright 2011-2020 The Bootstrap Authors
- * Copyright 2011-2020 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -4417,6 +4402,7 @@ input[type=button].btn-block {
     background-color: transparent;
     border: 1px solid transparent;
     border-radius: 0.25rem;
+    /* float: right !important; */
 }
 
 .navbar-toggler:hover,
