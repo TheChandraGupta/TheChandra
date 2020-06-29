@@ -10,6 +10,7 @@ import { SkillsComponent } from './skills/skills.component';
 import { InterestsComponent } from './interests/interests.component';
 import { AwardsComponent } from './awards/awards.component';
 import { SideNavComponent } from './side-nav/side-nav.component';
+import { ProjectComponent } from './project/project.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { SideNavComponent } from './side-nav/side-nav.component';
     SkillsComponent,
     InterestsComponent,
     AwardsComponent,
-    SideNavComponent
+    SideNavComponent,
+    ProjectComponent
   ],
   imports: [
     BrowserModule,

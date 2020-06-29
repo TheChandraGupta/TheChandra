@@ -3,9 +3,18 @@
     <ul class="fa-ul mb-0">
         <li *ngFor="let Award of Awards">
             <span class="fa-li">
-              <!-- <i class="fas fa-trophy text-warning"></i> -->
-              <i class="fas fa-trophy"></i>
-            </span> {{Award.Title}}, {{Award.By}} - {{Award.From}}
+            <!-- <i class="fas fa-trophy text-warning"></i> -->
+            <i class="fas fa-trophy"></i>
+          </span> {{Award.Title}}, {{Award.By}} - {{Award.From}}
+        </li>
+        <li *ngFor="let Certification of Certifications">
+            <span class="fa-li">
+            <!-- <i class="fas fa-trophy text-warning"></i> -->
+            <i class="fas fa-trophy"></i>
+          </span>
+            <a [href]="Certification.URL" target="_blank">
+            {{Certification.Name}}, {{Certification.IssuedBy}}, {{Certification.IssueDate}}
+          </a>
         </li>
         <!-- <li>
             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>Mobile Web Specialist - Google Certification

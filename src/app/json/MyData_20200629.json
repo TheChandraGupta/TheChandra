@@ -7,7 +7,7 @@
             "WhatsApp": "+91-7800430330",
             "Personal_Email": "chandra.prakashg01@gmail.com",
             "Official_Email": "thechandragupta@outlook.com",
-            "Summary": "Software Engineer with Experience in Java Development. Experienced in Developing Various Web Based applications using J2EE, Spring Boot, Spring Data JPA and Angular, and Computer Vision solutions using Deep Learning. Good Project Exposure in B2B Telecom, E-Commerce and Airline Domain",
+            "Summary": "Software Engineer with Experience in Java Development. Experienced in Developing Various Web Based applications using J2EE, Spring Boot, Spring Data JPA and Angular, and Computer Vision solutions using Deep Learning. Good Project Exposure in E-Commerce and Airline Domain",
             "Social_Media_Link": {
                 "LinkedIn": "https://www.linkedin.com/in/thechandragupta/",
                 "GitHub": "https://github.com/thechandragupta",
@@ -30,18 +30,29 @@
                 "Company_Description": "",
                 "Responsibility": "",
                 "Achievements": "",
-                "Summary": "Working on Java Spring Boot Microservices Project to build Web Services. Coordinate with Client to understand the requirement better. Provide better and efficient solution to problem to produce error free code and reduce work load."
+                "Summary": ""
             },
             {
-                "Designation": "Software Engineer",
+                "Designation": "Senior Software Engineer",
                 "Company": "Mindtree Ltd.",
-                "From": "July 2017",
+                "From": "July 2019",
                 "To": "May 2020",
                 "Place": "Bangalore, India",
                 "Company_Description": "",
                 "Responsibility": "",
                 "Achievements": "",
-                "Summary": "Worked on Java Spring Boot Project to build Web Services and Microservices Architecture POC. Coordinate with Client to understand the requirement better. Provide better and efficient solution to problem to produce error free code and reduce work load. Designed the Java Development training model for Fresh Joinee. Mentor and Guide Junior Team Members."
+                "Summary": ""
+            },
+            {
+                "Designation": "Software Engineer",
+                "Company": "Mindtree Ltd.",
+                "From": "July 2017",
+                "To": "June 2019",
+                "Place": "Bangalore, India",
+                "Company_Description": "",
+                "Responsibility": "",
+                "Achievements": "",
+                "Summary": ""
             },
             {
                 "Designation": "Application Developer Intern",
@@ -52,41 +63,28 @@
                 "Company_Description": "",
                 "Responsibility": "",
                 "Achievements": "",
-                "Summary": "Worked as an Application Intern on Java Jersey Web Services and Android Application development for Fitness applications. The application is hosted on the "
+                "Summary": ""
             }
         ],
         "Projects": [{
-                "Name": "Telecom Business",
+                "Name": "Telecom",
                 "Client": "Accolite Softwares Pvt. Ltd.",
                 "From": "May 2020",
                 "To": "Present",
-                "Description": "An Application which provides various RESTful APIs to B2B Business for calculating and generating quote, structuring the EMI and placing orders of various telecom product, accessory and servcies.",
-                "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B Business",
-				"Role": "Software Engineer",
+                "Description": "",
+                "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B marketing",
                 "Team_Size": "24",
                 "Technology_Stack": "Java, Spring Boot, Microservices, MonogoDB, Intellij, and Github"
             },
             {
-                "Name": "Travel, Transport and Hospitality",
-                "Client": "Mindtree Ltd.",
-                "From": "July 2019",
-                "To": "May 2020",
-                "Description": "A Web Service Application which provides various RESTful APIs to support different Airline basic Operations like Arrival, Departure, Fares, Route, Seat Availability, and etc.",
+                "Name": "Telecom",
+                "Client": "Accolite Softwares Pvt. Ltd.",
+                "From": "May 2020",
+                "To": "Present",
+                "Description": "",
                 "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B marketing",
-				"Role": "Senior Software Engineer",
-                "Team_Size": "6",
-                "Technology_Stack": "Java, Spring Boot, Microservices, MySQL, Eclipse, and Github"
-            },
-            {
-                "Name": "Travel, Transport and Hospitality",
-                "Client": "Mindtree Ltd.",
-                "From": "October 2017",
-                "To": "June 2019",
-                "Description": "An Air Cargo Management System which allows the user to make a reservation for their shipment and track its status from shipper to consignee. It also provide the airline staff to process different operations on the reservation like export, import and etc.",
-                "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B marketing",
-				"Role": "Software Engineer",
-                "Team_Size": "6",
-                "Technology_Stack": "Java, Spring Boot, Oracle, Eclipse, and SVN"
+                "Team_Size": "24",
+                "Technology_Stack": "Java, Spring Boot, Microservices, MonogoDB, Intellij, and Github"
             }
         ],
         "Educations": [{
@@ -97,7 +95,7 @@
                 "From": "August 2013",
                 "To": "May 2017",
                 "Grade": "9.3 CGPA",
-                "Description": "Learned different Computer Science concepts like Fundamentals of Programming, C, Java, Database Management System, JSP & Servlet, Computer Organisation, Computer Networking, Software Engineering, Operating System, and etc. Along with these concepts worked on various various using various technologies like Java, J2EE, Jersey, Android, Angular, IoT and etc.",
+                "Description": "",
                 "Activities": "",
                 "Achievements": ""
             },

@@ -1,35 +1,35 @@
 <div class="resume-section-content">
-    <h2 class="mb-5">Education</h2>
-    <div *ngFor="let Education of Educations" class="d-flex flex-column flex-md-row justify-content-between mb-5">
+    <h2 class="mb-5">Project</h2>
+    <div *ngFor="let Project of Projects" class="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="flex-grow-1">
-            <h3 class="mb-0">{{Education.Degree}}</h3>
+            <h3 class="mb-0">{{Project.Name}}</h3>
             <!-- <div class="subheading mb-6">{{Education.Board}}</div> -->
-            <div class="subheading mb-3">{{Education.Institution}}</div>
-            <p style="text-align:justify">{{Education.Description}}</p>
+            <div class="subheading mb-3">{{Project.Client}}</div>
+            <p>{{Project.Description}}</p>
             <div>
                 <table>
                     <tr>
-                        <td>Affiliated&nbsp;</td>
+                        <td>Role</td>
                         <td>&nbsp;:&nbsp;</td>
-                        <td>&nbsp;{{Education.Board}}</td>
+                        <td>&nbsp;{{Project.Role}}</td>
                     </tr>
                     <tr>
-                        <td>Field&nbsp;</td>
+                        <td>Technology Stack</td>
                         <td>&nbsp;:&nbsp;</td>
-                        <td>&nbsp;{{Education.Field}}</td>
+                        <td>&nbsp;{{Project.Technology_Stack}}</td>
                     </tr>
                     <tr>
-                        <td>GPA / %&nbsp;</td>
+                        <td>Team Size</td>
                         <td>&nbsp;:&nbsp;</td>
-                        <td>&nbsp;{{Education.Grade}}</td>
+                        <td>&nbsp;{{Project.Team_Size}}</td>
                     </tr>
                 </table>
             </div>
-            <!-- <div>{{Education.Field}}</div>
-            <p>{{Education.Grade}}</p> -->
+            <!-- <div>Technology Stack: {{Project.Technology_Stack}}</div>
+            <p>Team Size: {{Project.Team_Size}}</p> -->
             <!-- <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated
                 content in real-time will have multiple touchpoints for offshoring.</p> -->
         </div>
-        <div class="flex-shrink-0"><span class="text-primary">{{Education.From}} - {{Education.To}}</span></div>
+        <div class="flex-shrink-0"><span class="text-primary">{{Project.From}} - {{Project.To}}</span></div>
     </div>
 </div>
