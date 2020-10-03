@@ -48,7 +48,7 @@
                 "Company": "Lattice Innovation.",
                 "From": "May 2016",
                 "To": "June 2016",
-                "Place": "Bangalore, India",
+                "Place": "New Delhi, India",
                 "Company_Description": "",
                 "Responsibility": "",
                 "Achievements": "",
@@ -62,8 +62,8 @@
                 "To": "Present",
                 "Description": "An Application which provides various RESTful APIs to B2B Business for calculating and generating quote, structuring the EMI and placing orders of various telecom product, accessory and servcies.",
                 "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B Business",
-				"Role": "Software Engineer",
-                "Team_Size": "24",
+                "Role": "Software Engineer",
+                "Team_Size": "5",
                 "Technology_Stack": "Java, Spring Boot, Microservices, MonogoDB, Intellij, and Github"
             },
             {
@@ -73,7 +73,7 @@
                 "To": "May 2020",
                 "Description": "A Web Service Application which provides various RESTful APIs to support different Airline basic Operations like Arrival, Departure, Fares, Route, Seat Availability, and etc.",
                 "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B marketing",
-				"Role": "Senior Software Engineer",
+                "Role": "Senior Software Engineer",
                 "Team_Size": "6",
                 "Technology_Stack": "Java, Spring Boot, Microservices, MySQL, Eclipse, and Github"
             },
@@ -84,7 +84,7 @@
                 "To": "June 2019",
                 "Description": "An Air Cargo Management System which allows the user to make a reservation for their shipment and track its status from shipper to consignee. It also provide the airline staff to process different operations on the reservation like export, import and etc.",
                 "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B marketing",
-				"Role": "Software Engineer",
+                "Role": "Software Engineer",
                 "Team_Size": "6",
                 "Technology_Stack": "Java, Spring Boot, Oracle, Eclipse, and SVN"
             }
