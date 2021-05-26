@@ -18,14 +18,25 @@
                 "Quora": "https://www.quora.com/profile/Chandra-Prakash-Gupta-5",
                 "Skype_URL": "https://join.skype.com/invite/gfXgj0QkN3qE",
                 "Skype": "live:.cid.92561b5370472abe",
-                "MyWebsite": "https://thechandra.com"
+                "MyWebsite": "https://www.thechandra.com"
             }
         },
         "Experiences": [{
                 "Designation": "Software Engineer",
+                "Company": "Wissen Technology",
+                "From": "December 2020",
+                "To": "Present",
+                "Place": "Bangalore, India",
+                "Company_Description": "",
+                "Responsibility": "",
+                "Achievements": "",
+                "Summary": "Working as a Technical Consultant at Morgan Stanley. Coordinate with different teams to understand the different criterias to approve loans to customers. Build new criteria/rules to assess customers for loan approval."
+            },
+            {
+                "Designation": "Software Engineer",
                 "Company": "Accolite Softwares Pvt. Ltd.",
                 "From": "May 2020",
-                "To": "Present",
+                "To": "December 2020",
                 "Place": "Bangalore, India",
                 "Company_Description": "",
                 "Responsibility": "",
@@ -56,14 +67,25 @@
             }
         ],
         "Projects": [{
+                "Name": "Investment Banking",
+                "Client": "Morgan Stanley",
+                "From": "March 2021",
+                "To": "Present",
+                "Description": "An Investment Banking System which allows the bankers to assess the customer's credit/ranking score in-order to approve loans of different amount on different investment products.",
+                "Responsibility": "",
+                "Role": "Software Engineer",
+                "Team_Size": "6",
+                "Technology_Stack": "Java, JDBC, Oracle, and Git(Gitlab)"
+            },
+            {
                 "Name": "Telecom Business",
                 "Client": "Accolite Softwares Pvt. Ltd.",
                 "From": "May 2020",
-                "To": "Present",
+                "To": "December 2020",
                 "Description": "An Application which provides various RESTful APIs to B2B Business for calculating and generating quote, structuring the EMI and placing orders of various telecom product, accessory and servcies.",
                 "Responsibility": "Developing Spring Boot Microservices for a Telecom Industry to provide them a platform to enable B2B Business",
                 "Role": "Software Engineer",
-                "Team_Size": "5",
+                "Team_Size": "3",
                 "Technology_Stack": "Java, Spring Boot, Microservices, MonogoDB, Intellij, and Github"
             },
             {
@@ -163,6 +185,13 @@
             }
         ],
         "Awards": [{
+                "Title": "Mastermind Recognition Award",
+                "By": "Accolite Softwares Pvt. Ltd.",
+                "From": "October 2020",
+                "To": "",
+                "Description": ""
+            },
+            {
                 "Title": "Outstanding Performer Award",
                 "By": "Mindtree Ltd.",
                 "From": "July 2019",
@@ -203,19 +232,9 @@
                 "ID": "B5YNZ7YASB6C",
                 "URL": "https://www.coursera.org/account/accomplishments/certificate/B5YNZ7YASB6C",
                 "Image_URL": ""
-            },
-            {
-                "Name": "IoT Workshop",
-                "IssuedBy": "IISc & MSME, CTTC Bhubaneswar",
-                "IssueDate": "September 2015",
-                "ExpirationDate": "",
-                "DoesExpire": false,
-                "ID": "",
-                "URL": "#",
-                "Image_URL": ""
             }
         ]
     },
-    "Resume_URL": "https://thechandra.com",
-    "Version": "1.0.0"
+    "Resume_URL": "https://www.thechandra.com",
+    "Version": "1.0.1"
 }
