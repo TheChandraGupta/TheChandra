@@ -1,1 +1,1 @@
-ng deploy --cname=www.thechandra.in
+ng deploy --cname=www.thechandragupta.com
